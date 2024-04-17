@@ -35,3 +35,4 @@ struct StartButtonView: View {
     StartButtonView()
         .previewLayout(.sizeThatFits)
 }
+
